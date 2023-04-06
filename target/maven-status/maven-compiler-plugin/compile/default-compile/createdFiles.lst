@@ -1,5 +1,11 @@
+Models\Orders.class
 Models\Customers.class
 com\mycompany\soap\service\StudentService.class
 Controller\CustomerController.class
+Controller\OrderController.class
 Services\CustomerService.class
+Controller\AdminController.class
+Models\Admin.class
+Services\OrderService.class
 DBConnection\DBConnection.class
+Services\AdminsService.class
