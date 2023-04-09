@@ -26,6 +26,13 @@ public class Customers {
     public Customers() {
     }
 
+    public Customers(String customer_id, String customer_name, String customer_email, String password) {
+        this.customer_id = customer_id;
+        this.customer_name = customer_name;
+        this.customer_email = customer_email;
+        this.password = password;
+    }
+
     
     
     public String getCustomer_id() {
